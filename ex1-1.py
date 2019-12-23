@@ -1,5 +1,9 @@
 # Add a few test comments - 1.1
+<<<<<<< HEAD
 # Add some stuff to the master branch
+# Just a few fixes for bug21
+# A few more fixes for bug21
+>>>>>>> bug21
 import twitter
 
 # XXX: Go to http://dev.twitter.com/apps/new to create an app and get values
